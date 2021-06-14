@@ -50,7 +50,6 @@ dependencies {
 	implementation "com.jumio.android:bam:${SDK_VERSION}@aar"
 	implementation "com.jumio.android:nv:${SDK_VERSION}@aar"
 	implementation "com.jumio.android:nv-mrz:${SDK_VERSION}@aar"
-	implementation "com.jumio.android:nv-nfc:${SDK_VERSION}@aar"
 	implementation "com.jumio.android:nv-ocr:${SDK_VERSION}@aar"
 	implementation "com.jumio.android:nv-barcode:${SDK_VERSION}@aar"
 	implementation "com.jumio.android:nv-barcode-vision:${SDK_VERSION}@aar"
